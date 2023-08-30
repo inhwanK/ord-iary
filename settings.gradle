@@ -1,0 +1,3 @@
+rootProject.name = 'ord-iary'
+include ('diary')
+
